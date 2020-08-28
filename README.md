@@ -4,5 +4,5 @@ This reposistory contains all the related works, top500 published lists and csv 
 
 For any information, please contact
 
-awais@sogang.ac.kr
+awais@sogang.ac.kr,
 simh@ornl.gov
