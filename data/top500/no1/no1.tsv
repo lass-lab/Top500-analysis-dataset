@@ -1,0 +1,53 @@
+List	Rank	System	Cores	Rmax (TFlop/s)	Rpeak (TFlop/s)	Power (kW)
+11/2018	1	Summit - IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband , IBM  DOE/SC/Oak Ridge National Laboratory United States	2,397,824	143,500.00	200,794.90	9,783
+06/2018	1	Summit - IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband , IBM  DOE/SC/Oak Ridge National Laboratory United States	2,282,544	122,300.00	187,659.30	8,805.50
+11/2017	1	Sunway TaihuLight - Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway , NRCPC  National Supercomputing Center in Wuxi China	10,649,600	93,014.60	125,435.90	15,371
+06/2017	1	Sunway TaihuLight - Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway , NRCPC  National Supercomputing Center in Wuxi China	10,649,600	93,014.60	125,435.90	15,371
+11/2016	1	Sunway TaihuLight - Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway , NRCPC  National Supercomputing Center in Wuxi China	10,649,600	93,014.60	125,435.90	15,371
+06/2016	1	Sunway TaihuLight - Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway , NRCPC  National Supercomputing Center in Wuxi China	10,649,600	93,014.60	125,435.90	15,371
+11/2015	1	Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692 12C 2.200GHz, TH Express-2, Intel Xeon Phi 31S1P , NUDT  National Super Computer Center in Guangzhou China	3,120,000	33,862.70	54,902.40	17,808
+06/2015	1	Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692 12C 2.200GHz, TH Express-2, Intel Xeon Phi 31S1P , NUDT  National Super Computer Center in Guangzhou China	3,120,000	33,862.70	54,902.40	17,808
+11/2014	1	Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692 12C 2.200GHz, TH Express-2, Intel Xeon Phi 31S1P , NUDT  National Super Computer Center in Guangzhou China	3,120,000	33,862.70	54,902.40	17,808
+06/2014	1	Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692 12C 2.200GHz, TH Express-2, Intel Xeon Phi 31S1P , NUDT  National Super Computer Center in Guangzhou China	3,120,000	33,862.70	54,902.40	17,808
+11/2013	1	Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692 12C 2.200GHz, TH Express-2, Intel Xeon Phi 31S1P , NUDT  National Super Computer Center in Guangzhou China	3,120,000	33,862.70	54,902.40	17,808
+06/2013	1	Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692 12C 2.200GHz, TH Express-2, Intel Xeon Phi 31S1P , NUDT  National Super Computer Center in Guangzhou China	3,120,000	33,862.70	54,902.40	17,808
+11/2012	1	Titan - Cray XK7, Opteron 6274 16C 2.200GHz, Cray Gemini interconnect, NVIDIA K20x , Cray Inc.  DOE/SC/Oak Ridge National Laboratory United States	560,640	17,590.00	27,112.50	8,209
+06/2012	1	Sequoia - BlueGene/Q, Power BQC 16C 1.60 GHz, Custom , IBM  DOE/NNSA/LLNL United States	1,572,864	16,324.80	20,132.70	7,890
+11/2011	1	K computer, SPARC64 VIIIfx 2.0GHz, Tofu interconnect , Fujitsu  RIKEN Advanced Institute for Computational Science (AICS) Japan	705,024	10,510.00	11,280.40	12,659.90
+06/2011	1	K computer, SPARC64 VIIIfx 2.0GHz, Tofu interconnect , Fujitsu  RIKEN Advanced Institute for Computational Science (AICS) Japan	548,352	8,162.00	8,773.60	9,898.60
+11/2010	1	Tianhe-1A - NUDT TH MPP, X5670 2.93Ghz 6C, NVIDIA GPU, FT-1000 8C , NUDT  National Supercomputing Center in Tianjin China	186,368	2,566.00	4,701.00	4,040
+06/2010	1	Jaguar - Cray XT5-HE Opteron 6-core 2.6 GHz , Cray Inc.  DOE/SC/Oak Ridge National Laboratory United States	224,162	1,759.00	2,331.00	6,950
+11/2009	1	Jaguar - Cray XT5-HE Opteron 6-core 2.6 GHz , Cray Inc.  DOE/SC/Oak Ridge National Laboratory United States	224,162	1,759.00	2,331.00	6,950
+06/2009	1	Roadrunner - BladeCenter QS22/LS21 Cluster, PowerXCell 8i 3.2 Ghz / Opteron DC 1.8 GHz, Voltaire Infiniband , IBM  DOE/NNSA/LANL United States	129,600	1,105.00	1,456.70	2,483
+11/2008	1	Roadrunner - BladeCenter QS22/LS21 Cluster, PowerXCell 8i 3.2 Ghz / Opteron DC 1.8 GHz, Voltaire Infiniband , IBM  DOE/NNSA/LANL United States	129,600	1,105.00	1,456.70	2,483
+06/2008	1	Roadrunner - BladeCenter QS22/LS21 Cluster, PowerXCell 8i 3.2 Ghz / Opteron DC 1.8 GHz, Voltaire Infiniband , IBM  DOE/NNSA/LANL United States	122,400	1,026.00	1,375.80	2,345
+11/2007	1	BlueGene/L - eServer Blue Gene Solution , IBM  DOE/NNSA/LLNL United States	212,992	478.2	596.4	2,329
+06/2007	1	BlueGene/L - eServer Blue Gene Solution , IBM  DOE/NNSA/LLNL United States	131,072	280.6	367	1,433
+11/2006	1	BlueGene/L - eServer Blue Gene Solution , IBM  DOE/NNSA/LLNL United States	131,072	280.6	367	1,433
+06/2006	1	BlueGene/L - eServer Blue Gene Solution , IBM  DOE/NNSA/LLNL United States	131,072	280.6	367	1,433
+11/2005	1	BlueGene/L - eServer Blue Gene Solution , IBM  DOE/NNSA/LLNL United States	131,072	280.6	367	1,433
+06/2005	1	BlueGene/L - eServer Blue Gene Solution , IBM  DOE/NNSA/LLNL United States	65,536	136.8	183.5	716
+11/2004	1	BlueGene/L beta-System - BlueGene/L DD2 beta-System (0.7 GHz PowerPC 440) , IBM  IBM/DOE United States	32,768	70.7	91.8	
+06/2004	1	Earth-Simulator , NEC  Japan Agency for Marine-Earth Science and Technology Japan	5,120	35.9	41	3,200
+11/2003	1	Earth-Simulator , NEC  Japan Agency for Marine-Earth Science and Technology Japan	5,120	35.9	41	3,200
+06/2003	1	Earth-Simulator , NEC  Japan Agency for Marine-Earth Science and Technology Japan	5,120	35.9	41	3,200
+11/2002	1	Earth-Simulator , NEC  Japan Agency for Marine-Earth Science and Technology Japan	5,120	35.9	41	3,200
+06/2002	1	Earth-Simulator , NEC  Japan Agency for Marine-Earth Science and Technology Japan	5,120	35.9	41	3,200
+11/2001	1	ASCI White, SP Power3 375 MHz , IBM  Lawrence Livermore National Laboratory United States	8,192	7.2	12.3	
+06/2001	1	ASCI White, SP Power3 375 MHz , IBM  Lawrence Livermore National Laboratory United States	8,192	7.2	12.3	
+11/2000	1	ASCI White, SP Power3 375 MHz , IBM  Lawrence Livermore National Laboratory United States	8,192	4.9	12.3	
+06/2000	1	ASCI Red , Intel  Sandia National Laboratories United States	9,632	2.4	3.2	
+11/1999	1	ASCI Red , Intel  Sandia National Laboratories United States	9,632	2.4	3.2	
+06/1999	1	ASCI Red , Intel  Sandia National Laboratories United States	9,472	2.1	3.2	
+11/1998	1	ASCI Red , Intel  Sandia National Laboratories United States	9,152	1.3	1.8	
+06/1998	1	ASCI Red , Intel  Sandia National Laboratories United States	9,152	1.3	1.8	
+11/1997	1	ASCI Red , Intel  Sandia National Laboratories United States	9,152	1.3	1.8	
+06/1997	1	ASCI Red , Intel  Sandia National Laboratories United States	7,264	1.1	1.5	
+11/1996	1	CP-PACS/2048 , Hitachi/Tsukuba  Center for Computational Sciences, University of Tsukuba Japan	2,048	0.4	0.6	
+06/1996	1	SR2201/1024 , Hitachi  University of Tokyo Japan	1,024	0.2	0.3	
+11/1995	1	Numerical Wind Tunnel , Fujitsu  National Aerospace Laboratory of Japan Japan	140	0.2	0.2	
+06/1995	1	Numerical Wind Tunnel , Fujitsu  National Aerospace Laboratory of Japan Japan	140	0.2	0.2	
+11/1994	1	Numerical Wind Tunnel , Fujitsu  National Aerospace Laboratory of Japan Japan	140	0.2	0.2	
+06/1994	1	XP/S140 , Intel  Sandia National Laboratories United States	3,680	0.1	0.2	
+11/1993	1	Numerical Wind Tunnel , Fujitsu  National Aerospace Laboratory of Japan Japan	140	0.1	0.2	
+06/1993	1	CM-5/1024 , Thinking Machines Corporation  Los Alamos National Laboratory United States	1,024	0.1	0.1	

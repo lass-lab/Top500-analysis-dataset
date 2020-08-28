@@ -1,0 +1,217 @@
+   7 166766,ASCI Blue Mountain
+   6 166767,ASCI Blue-Pacific SST
+   1 166884,AlphaServer SC45
+   1 166886,AlphaServer SC45
+   3 166888,AlphaServer SC45
+   3 166889,AlphaServer SC45
+   1 166899,ASCI Q
+   1 166900,ASCI Q
+   4 166901,ASCI Q
+   2 166997,CM-5/1024
+   4 166998,CM-5/1056
+   1 167021,CM-5/256
+   1 167023,CM-5/256
+   4 167057,CM-5/512
+   4 167058,CM-5/512
+   2 167059,CM-5/544
+   2 167070,CM-5/864
+   1 167071,CM-5/896
+   4 167078,CP-PACS/2048
+   1 167140,Delta
+   9 167148,Earth-Simulator
+   1 167293,Aspen Systems
+   3 167394,MCR Linux Cluster Xeon 2.4 GHz
+   3 167522,Numerical Wind Tunnel
+   2 167843,ORIGIN 2000 250 MHz
+   1 168701,PRIMEPOWER HPC2500 (1.3 GHz)
+   1 168750,ASCI Red
+   3 168751,ASCI Red
+   1 168752,ASCI Red
+   6 168753,ASCI Red
+   1 168759,Cluster Platform 6000 rx2600 Itanium2 1 GHz Cluster
+   2 168781,S-3800/480
+   1 169604,SP2/384
+   2 169640,SP2/512
+   2 169641,SP2/512
+   1 169943,SP Power3 222 MHz
+   2 169957,SP Power3 375 MHz
+   1 169958,SP Power3 375 MHz
+   1 169990,SP Power3 375 MHz
+   3 169991,SP Power3 375 MHz
+   1 170206,SP Power3 375 MHz 16 way
+   1 170212,SP Power3 375 MHz 16 way
+   2 170214,SP Power3 375 MHz 16 way
+   2 170230,Seaborg
+   1 170236,SP Power3 375 MHz 8 way
+   1 170318,pSeries 690 Turbo 1.3GHz
+   1 170321,pSeries 690 Turbo 1.3GHz
+   1 170432,ASCI Blue-Pacific CTR
+   2 170486,ASCI Blue-Pacific CTR
+   4 170731,SR2201/1024
+   2 170748,SR8000-F1/100
+   2 170749,SR8000-F1/112
+   3 170759,SR8000/128
+   2 170767,SR8000/MPP
+   2 170812,SX-3/44
+   2 170813,SX-3/44R
+   1 170849,SX-4/32
+   1 170850,SX-4/32
+   1 170921,SX-5/128M8 3.2ns
+   4 170942,T3D MC1024-8
+   1 170986,T3D MC512-8
+   1 170987,T3D MC512-8
+   1 170999,T3E
+   1 171001,T3E
+   1 171002,T3E1200
+   5 171003,T3E1200
+   1 171004,T3E1200
+   2 171030,T3E1200
+   1 171034,T3E1200
+   1 171098,T3E
+   1 171099,T3E
+   1 171100,T3E
+   1 171101,T3E
+   1 171102,T3E
+   1 171103,T3E
+   1 171110,T3E
+   1 171121,T3E
+   1 171134,T3E
+   1 171145,T3E900
+   2 171147,T3E900
+   4 171152,T3E900
+   2 171185,T3E900
+   1 171186,T3E900
+   1 171187,T3E900
+   1 171199,T3E900
+   1 171201,T3E900
+   2 171202,T3E900
+   2 171204,T3E900
+   2 172318,VPP500/28
+   2 172319,VPP500/30
+   2 172320,VPP500/30
+   1 172330,VPP500/42
+   4 172336,VPP500/80
+   1 172362,VPP700/116
+   1 172390,VPP700/46
+   1 172395,VPP700/56
+   7 172411,ASCI White
+   6 172538,XP/S140
+   2 172540,XP/S35
+   2 172573,XP/S-MP 125
+   4 172576,XP/S-MP 150
+   2 172591,xSeries Cluster Xeon 2.4 GHz
+   1 172828,Y-MP C916/16256
+   1 172830,Y-MP C916/16256
+   2 173082,Mpp2
+   1 173115,pSeries 690 Turbo 1.3GHz
+   1 173122,pSeries 690 Turbo 1.3GHz
+   1 173164,Lightning
+   1 173225,X
+   3 173266,Tungsten
+   1 173275,AlphaServer SC45
+   5 173279,Numerical Wind Tunnel
+   1 173280,Numerical Wind Tunnel
+   1 173287,RIKEN Super Combined Cluster
+   2 173289,BlueGene/L DD1 Prototype (0.5GHz PowerPC 440 w/Custom)
+   3 173300,Thunder
+   1 173441,eServer pSeries 690 (1.9 GHz Power4+)
+   1 173564,Dawning 4000A
+   1 173632,BlueGene/L beta-System
+   1 173736,System X
+   5 173737,Columbia
+   1 173738,MareNostrum
+   1 173872,eServer pSeries 655 (1.7 GHz Power4+)
+   1 173987,BlueGene/L DD2 Prototype (0.7 GHz PowerPC 440)
+   1 173988,JUBL
+   2 173989,Stella
+   6 174016,BGW
+   1 174144,Red Storm
+   2 174193,MareNostrum
+   1 174210,BlueGene/L
+   2 174240,Red Storm Cray XT3
+   4 174275,BlueGene/L
+   1 174290,ASC Purple
+   1 174479,Jaguar
+   1 174563,TSUBAME Grid Cluster
+   1 174632,Tera-10
+   3 174683,ASC Purple
+   1 174712,Jaguar
+   1 174736,Thunderbird
+   2 174739,Red Storm
+   1 174740,Tera-10
+   2 174818,Thunderbird
+   2 174841,Jaguar
+   1 174855,HLRB-II
+   1 174867,TSUBAME Grid Cluster
+   2 174897,New York Blue
+   1 175104,eServer Blue Gene Solution
+   1 175107,eServer Blue Gene Solution
+   1 175108,Blue Protein
+   1 175150,Cluster Platform 3000 BL460c
+   1 175161,Franklin
+   6 175171,BlueGene/L
+   2 175180,MareNostrum
+   1 175182,Red Storm
+   1 175324,EKA
+   2 175549,Jaguar
+   1 175555,SGI Altix ICE 8200
+   1 175556,Encanto
+   1 175589,Ranger
+   1 175634,EKA
+   1 175877,Abe
+   1 176026,Roadrunner
+   5 176027,Roadrunner
+   2 176028,Roadrunner
+   2 176029,Jaguar
+   1 176150,Franklin
+   1 176163,Red Storm
+   3 176183,Ranger
+   2 176203,Pleiades
+   3 176208,Kraken XT5
+   4 176321,JUGENE
+   5 176322,Intrepid
+   1 176324,Dawn
+   1 176488,JUROPA
+   2 176501,JUGENE
+   1 176503,Blue Gene/P Solution
+   6 176544,Jaguar
+   3 176545,Kraken XT5
+   2 176546,Tianhe-1
+   1 176547,Pleiades
+   1 176548,Red Sky
+   5 176819,Nebulae
+   1 176898,Pleiades
+   1 176924,Red Sky
+   3 176927,TSUBAME 2.0
+   3 176928,Tera-100
+   6 176929,Tianhe-1A
+   1 176951,Cielo
+   3 176952,Hopper
+   2 177170,Cielo
+  14 177232,K computer
+   2 177259,Pleiades
+  14 177556,Sequoia
+  11 177718,Mira
+   4 177719,SuperMUC
+   2 177720,Fermi
+   7 177722,JUQUEEN
+   1 177725,DARPA Trial Subset
+   5 177732,Vulcan
+   1 177818,Curie thin nodes
+  11 177824,Piz Daint
+   7 177931,Stampede
+  13 177975,Titan
+  12 177999,Tianhe-2A
+   1 178432,Cray XC30
+   1 178445,Cray CS-Storm
+   2 178446,Hazel Hen
+   3 178515,Shaheen II
+   7 178610,Trinity
+   6 178764,Sunway TaihuLight
+   4 178924,Cori
+   3 178932,Oakforest-PACS
+   1 179102,Gyoukou
+   2 179393,AI Bridging Cloud Infrastructure (ABCI)
+   2 179397,Summit
+   2 179398,Sierra
+   1 179566,SuperMUC-NG

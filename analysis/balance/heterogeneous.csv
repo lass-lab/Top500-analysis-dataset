@@ -1,0 +1,461 @@
+Heterogeneous (0/1)	Supercomputer Name
+1	RoadRunner
+0	Blue Gene L
+0	Kraken XT5
+0	Intrepid
+0	Ranger
+0	Jaguar
+0	JUGENE
+0	Encanto
+0	EKA
+0	Blue Gene/P Solution
+0	SGI Altix ICE 8200EX
+0	Cluster Platform 3000 BL460c
+0	Red Storm - Sandia
+0	Frontier2 BG/L
+0	BGW
+0	Franklin
+0	T2K Open Supercomputer
+0	New York Blue
+0	Power 575
+0	VIP - Power 575
+1	"	Roadrunner "
+0	Jaguar XT5
+0	Pleiades
+0	BlueGene/L
+0	Kraken XT5
+0	Intrepid
+0	Ranger
+0	Franklin
+0	Jaguar XT4
+0	Red Storm - Sandia
+0	Magic Cube
+0	JUGENE
+0	Encanto
+0	EKA
+0	Jade
+0	Athena
+0	Blue Gene P Solutions
+0	SGI Altix ICE 8200EX
+0	Cluster Platform 3000 BL460c
+0	DeepComp 7000
+1	Roadrunner
+0	Jaguar
+0	JUGENE
+1	Pleiades
+0	BlueGene/L
+0	Kraken XT5
+0	Intrepid
+0	Ranger
+0	Dawn
+0	JUROPA
+0	Franklin
+0	Jaguar
+0	Red Storm
+0	Shaheen
+0	Magic Cube
+0	GPC
+0	Encanto
+0	EKA
+0	Juno
+0	Jade
+0	Jaguar
+1	Roadrunner
+0	Kraken XT5
+0	JUGENE
+1	Tianhe-1A
+1	Pleiades
+0	Blue Gene L
+0	Intrepid
+0	Ranger
+0	Red Sky
+0	Dawn
+0	Lomonosov
+0	JUROPA
+1	TachyonII
+0	Franklin
+0	Jaguar XT4
+0	Red Storm - Sandia
+0	Shaheen
+0	Magic Cube
+0	HECToR
+1	Jaguar - Cray XK6
+1	Nebulae
+1	Roadrunner
+0	Kraken XT5
+0	JUGENE
+1	Pleiades
+1	Tianhe-1A
+0	Blue Gene L
+0	Intrepid
+0	Red Sky
+0	Ranger
+0	Dawn
+0	Lomonosov
+0	JUROPA
+1	TachyonII
+0	HECToR
+0	Franklin
+1	Jade
+1	Mole-8.5
+0	Jaguar XT4
+1	Tianhe-1A
+1	Jaguar X6
+1	Nebulae
+1	TSUBAME
+0	Hopper
+1	Tera 100
+1	Roadrunner
+0	Kraken XT5
+0	JUGENE
+0	Cielo
+1	Pleiades
+0	Blue Gene L
+0	Intrepid
+1	Red Sky
+0	Ranger
+0	Dawn
+0	Lomonosov
+0	Raptor
+0	Haedem
+0	Haeon
+0	KComputer
+1	Tianhe-1A
+1	Jaguar Cray XT5
+1	Nebulae
+1	TSUBAME
+1	Cielo
+1	Pleiades
+0	Hopper
+1	Tera 100
+1	Roadrunner
+0	Kraken XT5
+0	JUGENE
+1	Lomonosov
+0	BlueGene/L
+0	Intrepid
+0	Red Sky
+0	Ranger
+0	Dawn
+0	Raptor
+0	Haedem
+0	KComputer
+1	Tianhe-1A
+1	Jaguar Cray XT5
+1	Nebulae
+1	TSUBAME
+1	Cielo
+1	Pleiades
+0	Hopper
+1	Tera 100
+1	Roadrunner
+0	Kraken XT5
+0	HERMIT
+0	JUGENE
+0	Sunway Blue Light
+0	Zin
+1	Tianhe-1A Hunan Solution
+0	Sequoia
+1	Lomonosov
+0	HECToR
+0	Gaea C2
+0	Sequoia
+0	KComputer
+0	Mira
+0	SuperMUC
+1	Tianhe-1A
+1	Jaguar Cray XK6
+0	Fermi
+0	JUQUEEN
+0	Curie Thin Nodes
+1	Nebulae
+1	Pleiades
+0	Helios
+0	Blue Joule
+1	TSUBAME 2.0
+0	Cielo
+0	Hopper
+0	Tera 100
+0	Oakleaf-FX
+1	Roadrunner
+0	DiRAC
+1	Titan
+0	Sequoia
+0	KComputer
+0	Mira
+0	JUQUEEN
+0	SuperMUC
+1	Stampede
+1	Tianhe-1A
+0	Fermi
+0	DARPA Trial Subset
+0	Curie Thin Nodes
+1	Nebulae
+0	Yellowstone
+1	Pleiades
+0	Helios
+0	Blue Joule
+1	TSUBAME 2.0
+0	Cielo
+0	Hopper
+1	Tera 100
+1	Tianhe 2A
+1	Titan
+0	Sequoia
+0	Kcomputer
+0	Mira
+1	Stampede
+0	JUQUEEN
+0	Vulcan
+0	SuperMUC
+1	Tianhe-1A
+0	Pangea
+0	Fermi
+0	DARPA Trial Subset
+0	Spirit
+0	Curie Thin Nodes
+1	Nebulae
+0	Yellowstone
+0	Blue Joule
+1	Pleiades
+0	Helios
+1	Tianhe-2A
+1	Titan
+0	Sequoia
+0	Kcomputer
+0	Mira
+1	Piz Daint
+1	Stampede
+0	JUQUEEN
+0	Vulcan
+0	SuperMUC
+1	TSUBAME 2.5
+1	Tianhe-1A
+1	Cascade
+0	Pangea
+0	Fermi
+1	Pleiades
+0	Power 755
+0	Spirit
+0	Archer
+0	Curie Thin Nodes
+1	Tianhe-2A
+1	Titan
+0	Sequoia
+0	Kcomputer
+0	Mira
+1	Piz Daint
+1	Stampede
+0	JUQUEEN
+0	Vulcan
+0	Cray XC30
+1	HPC2
+0	SuperMUC
+1	TSUBAME 2.5
+1	TIanhe-1A
+1	Cascade
+0	Pangea
+0	Fermi
+0	Edison
+0	Cray XC30
+0	Cray XC30
+1	Tianhe-2A
+1	Titan
+0	Sequoia
+0	Kcomputer
+0	Mira
+1	Piz Daint
+1	Stampede
+0	JUQUEEN
+0	Vulcan
+1	Cray CS-Storm
+1	Pleiades
+1	HPC2
+0	Cray XC30
+0	SuperMUC
+1	TSUBAME 2.5
+0	Hazel Hen
+1	Tianhe-1A
+1	Cascade
+0	Excalibur
+0	Pangea
+1	Tianhe-2A
+1	Titan
+0	Sequoia
+0	Kcomputer
+0	Mira
+1	Piz Daint
+0	Shaheen II
+1	Stampede
+0	JUQUEEN
+0	Vulcan
+1	Pleiades
+0	Abel
+1	Cray CS-Storm
+1	Cray CS-Storm
+0	Topaz
+1	HPC2
+0	Cray XC30
+0	Thunder
+0	SuperMUC
+0	SuperMUC Phase 2
+1	Tianhe-2A
+1	Titan
+0	Sequoia
+0	Kcomputer
+0	Mira
+0	Trinity
+1	Piz Daint
+0	Hazel Hen
+0	Shaheen II
+1	Stampede
+0	JUQUEEN
+0	Vulcan
+1	Pleiades
+0	Abel
+1	Cray CS-Storm
+1	Cray CS-Storm
+0	Topaz
+1	HPC2
+0	Cray XC30
+1	Thunder
+1	Sunway Taihu Light
+1	Tianhe-2A
+1	Titan
+0	Sequoia
+0	Kcomputer
+0	Mira
+0	Trinity
+1	Piz Daint
+0	Hazel Hen
+0	Shaheen II
+0	Pangea
+1	Stampede
+0	Vulcan
+1	Pleiades
+0	Abel
+0	Cray XC40
+0	Cray XC40
+0	Cray XC40
+1	Cray CS-Storm
+1	Cray CS-Storm
+1	Sunway Taihu Light
+1	Tianhe-2A
+1	Titan
+0	Sequoia
+0	Cori
+0	Oakforest-PACS
+0	Kcomputer
+1	Piz Daint
+0	Mira
+0	Trinity
+0	Cray XC40
+0	Marconi Intel Xeon Phi
+1	Pleiades
+0	Hazel Hen
+0	Shaheen II
+0	Pangea
+1	Stampede
+0	Theta
+0	JUQUEEN
+0	Cheyenne
+1	Sunway Taihu Light
+1	Tianhe-2A
+1	Titan
+1	Piz Daint
+0	Sequoia
+0	Cori
+0	Oakforest-PACS
+0	KComputer
+0	Mira
+0	Trinity
+0	Cray XC40
+0	Stampede 2
+0	MareNostrum
+0	Marconi Intel Xeon Phi
+1	Pleiades
+0	Theta
+0	Hazel Hen
+0	Shaheen II
+0	Pangea
+1	Stampede
+1	Sunway Taihu Light
+1	Tianhe-2A
+1	Piz Daint
+	Gyoukou
+1	Titan
+0	Sequoia
+0	Trinity
+0	Cori
+0	Oakforest-PACS
+0	KComputer
+0	Mira
+1	Stampede 2
+1	TSUBAME 3.0
+0	Marconi Intel Xeon Phi
+0	Cray XC40
+0	MareNostrum
+1	Pleiades
+0	Theta
+0	Hazel Hen
+0	Shaheen II
+1	Summit
+1	Sunway Taihu Light
+1	Sierra
+1	Tianhe-2A
+1	ABCI
+1	Piz Daint
+1	Titan
+0	Sequoia
+0	Trinity
+0	Cori
+0	Nurion
+0	Oakforest-PACS
+0	HPC4
+0	Tera 1000-2
+0	Stampede 2
+0	KComputer
+0	Mira
+0	Marconi Intel Xeon Phi
+1	TSUBAME 3.0
+0	Cray XC40
+1	Summit
+1	Sierra
+1	Sunway Taihu Light
+1	Tianhe-2A
+1	Piz Daint
+1	Trinity
+1	ABCI
+0	SuperMUC-NG
+1	Titan
+0	Sequoia
+1	Lassen
+0	Cori
+0	Nurion
+0	Oakforest-PACS
+0	HPC4
+0	Tera 1000-2
+0	Stampede 2
+0	KComputer
+0	Marconi Intel Xeon Phi
+0	Taiwania 2
+1	Summit
+1	Sierra
+1	Sunway Taihu Light
+1	Tianhe-2A
+0	Frontera
+1	Piz Daint
+1	Trinity
+1	ABCI
+0	SuperMUC-NG
+1	Lassen
+1	Pangea III
+1	Titan
+0	Sequoia
+0	Cori
+0	Nurion
+0	Oakforest-PACS
+0	HPC4
+0	Tera 1000-2
+0	Stampede 2
+0	KComputer

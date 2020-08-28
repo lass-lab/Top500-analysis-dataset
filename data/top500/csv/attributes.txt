@@ -1,0 +1,53 @@
+accelerator
+accelerator cores
+accelerator/co-processor
+accelerator/co-processor cores
+application area
+architecture
+computer
+continent
+cores
+cores per socket
+country
+effeciency (%)
+efficiency (%)
+first appearance
+first rank
+hpcg [tflop/s]
+interconnect
+interconnect family
+manufacturer
+measured size
+mflops/watt
+name
+nhalf
+nmax
+operating system
+os family
+power
+power (kw)
+power effeciency [gflops/watts]
+power source
+previous rank
+proc. frequency
+processor
+processor cores
+processor family
+processor generation
+processor speed (mhz)
+processor technology
+processors
+rank
+region
+rmax
+rmax [tflop/s]
+rpeak
+rpeak [tflop/s]
+segment
+site
+site id
+system family
+system id
+system model
+total cores
+year

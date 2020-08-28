@@ -1,0 +1,53 @@
+1	Accelerator
+2	Accelerator Cores
+3	Accelerator/Co-Processor
+4	Accelerator/Co-Processor Cores
+5	Application Area
+6	Architecture
+7	Computer
+8	Continent
+9	Cores
+10	Cores per Socket
+11	Country
+12	Efficiency (%)
+13	First Appearance
+14	First Rank
+15	HPCG [TFlop/s]
+16	Interconnect
+17	Interconnect Family
+18	Manufacturer
+19	Measured Size
+20	Mflops/Watt
+21	Name
+22	Nhalf
+23	Nmax
+24	OS Family
+25	Operating System
+26	Power
+27	Power (kW)
+28	Power Efficiency [GFlops/Watts]
+29	Power Source
+30	Previous Rank
+31	Processor
+32	Processor Cores
+33	Processor Family
+34	Processor Generation
+35	Processor Speed (MHz)
+36	Processor Technology
+37	Processors
+38	RMax
+39	RPeak
+40	Rank
+41	Region
+42	Rmax
+43	Rmax [TFlop/s]
+44	Rpeak
+45	Rpeak [TFlop/s]
+46	Segment
+47	Site
+48	Site ID
+49	System Family
+50	System ID
+51	System Model
+52	Total Cores
+53	Year

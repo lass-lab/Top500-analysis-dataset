@@ -1,0 +1,711 @@
+<!doctype html>
+<html lang="en">
+
+
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    
+    <title>
+        Summit - 
+    IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband | TOP500 Supercomputer Sites</title>
+    <link rel="shortcut icon" href="/static/img/favicon.ico">
+
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/news/feeds/rss/">
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="/news/feeds/atom/">
+    
+
+    
+        <link rel="stylesheet" href="/static/css/bootstrap.css">
+        <link rel="stylesheet" href="/static/css/mezzanine.css">
+        <link rel="stylesheet" href="/static/css/bootstrap-theme.css">
+        <link rel="stylesheet" href="/static/css/top500.css">
+
+
+        
+
+        
+            
+        
+    
+
+    <script type="text/javascript">var switchTo5x = true;</script>
+    <script src="https://www.google.com/jsapi?key=ABQIAAAAjBc6iR40aJtAwcj9HMZBYhRJaxAAofxHq0gEaifsfToGnpixdBQJC_bTjQIXv67MMRk0TIy-pv04GQ"
+            type="text/javascript"></script>
+    <script type='text/javascript' src='https://partner.googleadservices.com/gampad/google_service.js'></script>
+
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function () {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function () {
+            
+            googletag.defineSlot('/2924242/leaderboard', [728, 90], 'div-gpt-ad-1416441378536-15').addService(googletag.pubads());
+            googletag.defineSlot('/2924242/mobile_leaderboard', [320, 50], 'div-gpt-ad-1488790360617-0').addService(googletag.pubads());
+            
+            googletag.defineSlot('/2924242/2013_square_popup_1', [250, 250], 'div-gpt-ad-1416441378536-5').addService(googletag.pubads());
+            googletag.defineSlot('/2924242/2013_square_popup_2', [250, 250], 'div-gpt-ad-1453380928566-0').addService(googletag.pubads());
+            googletag.defineSlot('/2924242/2013_square_popup_3', [250, 250], 'div-gpt-ad-1509611081669-0').addService(googletag.pubads());
+
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+
+    
+        <script src="/static/mezzanine/js/jquery-1.8.3.min.js"></script>
+        <script src="/static/js/bootstrap.js"></script>
+        <script src="/static/js/bootstrap-extras.js"></script>
+        
+    <script>
+        $('#myTab a').click(function (e) {
+            e.preventDefault();
+            $(this).tab('show');
+        })
+    </script>
+
+    
+    <script type="text/javascript" src="/static/dajax/jquery.dajax.core.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+    <script src="/static/js/respond.min.js"></script>
+    <![endif]-->
+
+    
+
+</head>
+<body id="body">
+
+<ul id="social-icons">
+    <li><a class="twitter" href="https://twitter.com/top500supercomp" title="Follow us on Twitter" target="_blank">Twitter</a>
+    </li>
+    <li><a class="fb" href="https://www.facebook.com/top500.org" title="Follow us on Facebook"
+           target="_blank">Facebook</a></li>
+</ul>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-6 col-lg-3 left header">
+            
+                
+                
+
+                <img src="/static//images/Top500_logo.png" width="150" style="margin-left: 10px;"/>
+            
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-9">
+            <div class="leaderboard">
+                
+                    <!-- leadearboard -->
+                    <div id='div-gpt-ad-1416441378536-15' style='width:728px; height:90px;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function () {
+                                googletag.display('div-gpt-ad-1416441378536-15');
+                            });
+                        </script>
+                    </div>
+                
+            </div>
+            <div class="leaderboard_mobile">
+                <div id='div-gpt-ad-1488790360617-0' style='height:50px; width:320px;'>
+                    <script>
+                        googletag.cmd.push(function () {
+                            googletag.display('div-gpt-ad-1488790360617-0');
+                        });
+                    </script>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                <span class="sr-only">Toggle Navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-collapse" style="border: none;">
+            
+<form action="/search/" class="navbar-form navbar-right" role="search">
+
+<div class="form-group">
+    <input class="form-control" placeholder="Search" type="text" name="q" value="">
+</div>
+
+
+
+<input type="submit" class="btn btn-default" value="Go">
+
+</form>
+
+            
+                
+<ul class="nav navbar-nav"><li id="dropdown-menu-home"><a href="/">Home</a></li><li class="dropdown
+               "
+        id="lists"><a href="/lists/"
+        
+        class="dropdown-toggle disabled" data-toggle="dropdown"
+        >
+            Lists
+            <b class="caret"></b></a><ul class="dropdown-menu"><li class="dropdown-submenu
+               "
+        id="lists-top500"><a href="/lists/top500/">TOP500</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-2018-11"><a href="/lists/2018/11/">November 2018</a></li><li class="
+               "
+        id="lists-2018-06"><a href="/lists/2018/06/">June 2018</a></li><li class="
+               "
+        id="lists-2017-11"><a href="/lists/2017/11/">November 2017</a></li><li class="
+               "
+        id="lists-2017-06"><a href="/lists/2017/06/">June 2017</a></li><li class="
+               "
+        id="lists-2016-11"><a href="/lists/2016/11/">November 2016</a></li><li class="
+               "
+        id="lists-2016-06"><a href="/lists/2016/06/">June 2016</a></li><li class="
+               "
+        id="lists-2015-11"><a href="/lists/2015/11/">November 2015</a></li><li class="
+               "
+        id="lists-2015-06"><a href="/lists/2015/06/">June 2015</a></li><li class="
+               "
+        id="lists-2014-11"><a href="/lists/2014/11/">November 2014</a></li><li class="dropdown-submenu
+               "
+        id="lists-2014-06"><a href="/lists/2014/06/">June 2014</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2014-06-highlights"><a href="/lists/top500/2014/06/highlights/">Highlights of the 43rd TOP500 List</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2013-11"><a href="/lists/2013/11/">November 2013</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2013-11-highlights"><a href="/lists/top500/2013/11/highlights/">Highlights - November 2013</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2013-06"><a href="/lists/2013/06/">June 2013</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2013-06-highlights"><a href="/lists/top500/2013/06/highlights/">Highlights  - June 2013</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2012-11"><a href="/lists/2012/11/">November 2012</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2012-11-highlights"><a href="/lists/top500/2012/11/highlights/">Highlights - November 2012</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2012-06"><a href="/lists/2012/06/">June 2012</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2012-06-highlights"><a href="/lists/top500/2012/06/highlights/">Highlights: June 2012</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2011-11"><a href="/lists/2011/11/">November 2011</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2011-11-highlights"><a href="/lists/top500/2011/11/highlights/">Highlights: November 2011</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2011-06"><a href="/lists/2011/06/">June 2011</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2011-06-highlights"><a href="/lists/top500/2011/06/highlights/">Highlights: June 2011</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2010-11"><a href="/lists/2010/11/">November 2010</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2010-11-highlights"><a href="/lists/top500/2010/11/highlights/">Highlights: November 2010</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2010-06"><a href="/lists/2010/06/">June 2010</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2010-06-highlights"><a href="/lists/top500/2010/06/highlights/">June 2010 - Highlights</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2009-11"><a href="/lists/2009/11/">November 2009</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2009-11-highlights"><a href="/lists/top500/2009/11/highlights/">Highlights - November 2009</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2009-06"><a href="/lists/2009/06/">June 2009</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2009-06-highlights"><a href="/lists/top500/2009/06/highlights/">Highlights - June 2009</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2008-11"><a href="/lists/2008/11/">November 2008</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2008-11-highlights"><a href="/lists/top500/2008/11/highlights/">Highlights - November 2008</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2008-06"><a href="/lists/2008/06/">June 2008</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2008-06-highlights"><a href="/lists/top500/2008/06/highlights/">Highlights - June 2008</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2007-11"><a href="/lists/2007/11/">November 2007</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2007-11-highlights"><a href="/lists/top500/2007/11/highlights/">Highlights - November 2007</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2007-06"><a href="/lists/2007/06/">June 2007</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2007-06-highlights"><a href="/lists/top500/2007/06/highlights/">Highlights - June 2007</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2006-11"><a href="/lists/2006/11/">November 2006</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2006-11-highlights"><a href="/lists/top500/2006/11/highlights/">Highlights - November 2006</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2006-06"><a href="/lists/2006/06/">June 2006</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2006-06-highlights"><a href="/lists/top500/2006/06/highlights/">Highlights - June 2006</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2005-11"><a href="/lists/2005/11/">November 2005</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2005-11-highlights"><a href="/lists/top500/2005/11/highlights/">Highlights - November 2005</a></li></ul></li><li class="dropdown-submenu
+               "
+        id="lists-2005-06"><a href="/lists/2005/06/">June 2005</a><ul class="dropdown-menu"><li class="
+               "
+        id="lists-top500-2005-06-highlights"><a href="/lists/top500/2005/06/highlights/">Highlights - June 2005</a></li></ul></li></ul></li><li class="dropdown-submenu
+               "
+        id="hpcg"><a href="/hpcg/">HPCG</a><ul class="dropdown-menu"><li class="
+               "
+        id="hpcg-lists-2018-11"><a href="/hpcg/lists/2018/11/">HPCG - November 2018</a></li><li class="
+               "
+        id="hpcg-lists-2018-06"><a href="/hpcg/lists/2018/06/">HPCG - June 2018</a></li><li class="
+               "
+        id="hpcg-lists-2017-11"><a href="/hpcg/lists/2017/11/">HPCG - November 2017</a></li></ul></li><li class="
+               "
+        id="green500"><a href="/green500/">GREEN500</a></li><li class="dropdown-submenu
+               "
+        id="scc"><a href="/scc/">Student Cluster Competition</a><ul class="dropdown-menu"><li class="
+               "
+        id="scc-guidelines"><a href="/scc/guidelines/">SCC Guidelines</a></li></ul></li></ul></li><li class="dropdown
+               "
+        id="statistics"><a href="/statistics/"
+        
+        class="dropdown-toggle disabled" data-toggle="dropdown"
+        >
+            Statistics
+            <b class="caret"></b></a><ul class="dropdown-menu"><li class="
+               "
+        id="statistics-sublist"><a href="/statistics/sublist/">Sublist Generator</a></li><li class="
+               "
+        id="statistics-list"><a href="/statistics/list/">List Statistics</a></li><li class="
+               "
+        id="statistics-overtime"><a href="/statistics/overtime/">Development over Time</a></li><li class="
+               "
+        id="statistics-treemaps"><a href="/statistics/treemaps/">Treemaps</a></li><li class="
+               "
+        id="statistics-efficiency-power-cores"><a href="/statistics/efficiency-power-cores/">Efficiency, Power, Cores...</a></li><li class="
+               "
+        id="statistics-perfdevel"><a href="/statistics/perfdevel/">Performance Development</a></li></ul></li><li class="dropdown
+               "
+        id="resources"><a href="/resources/"
+        
+        class="dropdown-toggle disabled" data-toggle="dropdown"
+        >
+            Resources
+            <b class="caret"></b></a><ul class="dropdown-menu"><li class="
+               "
+        id="certificates"><a href="/certificates/">TOP500 Certificates</a></li><li class="
+               "
+        id="resources-top-systems"><a href="/resources/top-systems/">TOP #1 Systems</a></li><li class="
+               "
+        id="timeline"><a href="/timeline/">TOP500 Timeline</a></li><li class="
+               "
+        id="news"><a href="/news/">News</a></li><li class="
+               "
+        id="resources-presentations"><a href="/resources/presentations/">Presentations</a></li><li class="
+               "
+        id="resources-videos"><a href="/resources/videos/">Videos</a></li><li class="
+               "
+        id="resources-frequently-asked-questions"><a href="/resources/frequently-asked-questions/">Frequently Asked Questions</a></li><li class="
+               "
+        id="resources-top500-logo-usage"><a href="/resources/top500-logo-usage/">TOP500 Logo Usage</a></li></ul></li><li class="dropdown
+               "
+        id="project"><a href="/project/"
+        
+        class="dropdown-toggle disabled" data-toggle="dropdown"
+        >
+            About
+            <b class="caret"></b></a><ul class="dropdown-menu"><li class="
+               "
+        id="project-call_for_participation"><a href="/project/call_for_participation/">Call for Participation in the TOP500 / Green500 Lists</a></li><li class="
+               "
+        id="project-introduction"><a href="/project/introduction/">Introduction and Objectives</a></li><li class="
+               "
+        id="project-linpack"><a href="/project/linpack/">The Linpack Benchmark</a></li><li class="
+               "
+        id="project-top500_description"><a href="/project/top500_description/">TOP500 Description  </a></li><li class="dropdown-submenu
+               "
+        id="project-authors"><a href="/project/authors/">TOP500 Authors</a><ul class="dropdown-menu"><li class="
+               "
+        id="project-authors-hans-werner-meuer"><a href="/project/authors/hans-werner-meuer/">Hans Werner Meuer (1936 - 2014†) </a></li><li class="
+               "
+        id="project-authors-erich-strohmaier"><a href="/project/authors/erich-strohmaier/">Erich Strohmaier</a></li><li class="
+               "
+        id="project-authors-jack-dongarra"><a href="/project/authors/jack-dongarra/">Jack Dongarra</a></li><li class="
+               "
+        id="project-authors-horst-simon"><a href="/project/authors/horst-simon/">Horst Simon</a></li><li class="
+               "
+        id="project-authors-martin-meuer"><a href="/project/authors/martin-meuer/">Martin Meuer</a></li></ul></li></ul></li><li class="
+               "
+        id="mediakit"><a href="/mediakit/"
+        >
+            Media Kit
+            
+        </a></li></ul>
+
+            
+        </div>
+    </div>
+</nav>
+
+
+
+<div class="container header_space">
+    <div class="row">
+        <div class="col-sm-12 col-md-9 col-lg-9" style="border: none; padding-left: 30px;">
+            
+                
+            
+
+            
+
+            
+    
+
+
+
+            
+                
+                    <ul class="breadcrumb">
+                        <li id="breadcrumb-menu-home"><a href="/">Home</a></li><li><a href="/site/48553">DOE/SC/Oak Ridge Natio...</a></li><li>Summit
+        - IBM Power System ...</li>
+                    </ul>
+                
+
+
+                <h1 >
+                    Summit - 
+    IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband
+                </h1>
+            
+            
+
+    <table class="table table-condensed">
+        <tr>
+            <th>Site:</th>
+            <td><a href="/site/48553">DOE/SC/Oak Ridge National Laboratory</a></td>
+        </tr>
+        
+            <tr>
+                <th>System URL:</th>
+                <td><a href="http://www.olcf.ornl.gov/olcf-resources/compute-systems/summit/">http://www.olcf.ornl.gov/olcf-resources/compute-systems/summit/</a></td>
+            </tr>
+        
+        <tr>
+            <th>Manufacturer:</th>
+            <td>IBM</td>
+        </tr>
+        <tr>
+            <th>Cores:</th>
+            <td>2,397,824</td>
+        </tr>
+        <tr>
+            <th>Memory:</th>
+            <td> 2,801,664
+                GB</td>
+        </tr>
+        <tr>
+            <th>Processor:</th>
+            <td>IBM POWER9 22C 3.07GHz</td>
+        </tr>
+        <tr>
+            <th>Interconnect:</th>
+            <td>Dual-rail Mellanox EDR Infiniband</td>
+        </tr>
+        <tr>
+            <th colspan="2" style="background-color: #e7e7e7">Performance</th>
+        </tr>
+
+        <tr>
+            <th>Linpack Performance (Rmax)</th>
+            <td>143,500 TFlop/s</td>
+        </tr>
+        <tr>
+            <th>Theoretical Peak (Rpeak)</th>
+            <td>200,795 TFlop/s</td>
+        </tr>
+        
+            <tr>
+                <th>Nmax</th>
+                <td>16,693,248</td>
+            </tr>
+        
+        
+        
+            <tr>
+                <th>HPCG [TFlop/s]</th>
+                <td>2,925.75</td>
+            </tr>
+        
+
+        <tr>
+            <th colspan="2" style="background-color: #e7e7e7">Power Consumption</th>
+        </tr>
+        <tr>
+            <th>Power:</th>
+            <td>
+                
+                    9,783.00 kW
+                    
+                        
+                            (Submitted)
+                        
+                    
+                </td>
+        </tr>
+
+        
+            <tr>
+                <th>Power Measurement Level:</th>
+                <td>3</td>
+            </tr>
+        
+
+        
+            <tr>
+                <th>Measured Cores:</th>
+                <td>2,397,824</td>
+            </tr>
+        
+        <tr>
+            <th colspan="2" style="background-color: #e7e7e7">Software</th>
+        </tr>
+        <tr>
+            <th>Operating System:</th>
+            <td>RHEL 7.4</td>
+        </tr>
+        
+            <tr>
+                <th>Compiler:</th>
+                <td>XLC, nvcc</td>
+            </tr>
+        
+        
+            <tr>
+                <th>Math Library:</th>
+                <td>ESSL, CUBLAS 9.2</td>
+            </tr>
+        
+        
+            <tr>
+                <th>MPI:</th>
+                <td>Spectrum MPI</td>
+            </tr>
+        
+
+    </table>
+
+
+
+
+
+    <div id='chart_div'></div>
+
+    <div class="tabbable" style="margin-top: 50px;">
+        <ul id="myTab" class="nav nav-tabs">
+            <li class="active"><a href="#ranking" data-toggle="tab">Ranking</a></li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane active" id="ranking">
+                
+                    <table class="table table-responsive">
+                        <thead>
+                        <tr>
+                            <th>List</th>
+                            <th>Rank</th>
+                            <th>System</th>
+                            <th>Vendor</th>
+                            <th>Total Cores</th>
+                            <th>Rmax (TFlops)</th>
+                            <th>Rpeak (TFlops)</th>
+                            <th>Power (kW)</th>
+                        </tr>
+                        </thead>
+                        
+                            <tr class="sublist odd">
+                                <td><a href="/lists/2018/11"><span
+                                        class="">11/2018</span></a></td>
+                                <td><span class="">1</span></td>
+                                <td>IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband</td>
+                                <td>
+                                    IBM
+                                
+                                </td>
+                                <td>2,397,824</td>
+
+                                
+                                    <td>143,500.0</td>
+                                    <td>200,794.9</td>
+                                
+                                <td>
+                                    9,783.00</td>
+
+                            </tr>
+                        
+                            <tr class="sublist even">
+                                <td><a href="/lists/2018/06"><span
+                                        class="">06/2018</span></a></td>
+                                <td><span class="">1</span></td>
+                                <td>IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband</td>
+                                <td>
+                                    IBM
+                                
+                                </td>
+                                <td>2,282,544</td>
+
+                                
+                                    <td>122,300.0</td>
+                                    <td>187,659.3</td>
+                                
+                                <td>
+                                    8,805.50</td>
+
+                            </tr>
+                        
+                    </table>
+                    </div>
+
+                    <div class="tab-pane" id="performance">
+                    </div>
+                    </div>
+                    </div>
+
+                
+
+
+
+
+        </div>
+
+        <!-- Right Section / Side Bar -->
+        <div class="col-sm-12 col-md-3 col-lg-3">
+            
+                <div id="right" style="width: 250px;">
+                    <ul class="kachel-nav ">
+                        
+                            <li><a class="top500" title="TOP500" href="/">TOP500</a></li>
+                        
+                        <li><a class="list" title="Current List" href="/lists/2018/11"><h1>Current List</h1></a></li>
+			<li><a class="anniv" title="25 Year Anniversary" href="/25years"><h1>25 Year Anniversary</h1></a></li>
+                        <li><a class="newsletter" title="Newsletter" href="https://www.top500.org/accounts/signup"><h1>Newsletter Signup</h1></a></li>
+                    </ul>
+                </div>
+            
+	    
+		
+	    
+            
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top: 20px;">
+
+                         
+                        </td>
+                        
+
+
+                    </div>
+
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top: 20px;">
+                        
+<div id='div-gpt-ad-1453380928566-0' style='height: 250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1453380928566-0'); });
+</script>
+</div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top: 20px;">
+                        
+                    </div>
+                </div>
+
+
+            
+
+            
+
+                <div class="panel">
+<br>
+<a class="twitter-timeline" href="https://twitter.com/top500supercomp" data-widget-id="484299292631240705">Tweets by @top500supercomp</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+                                <div class="panel">
+                    <iframe src="https://www.facebook.com/plugins/like.php?app_id=124489460969110&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTop500-Supercomputing-Sites%2F203473106331290&amp;send=false&amp;layout=standard&amp;width=250&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:80px;" allowTransparency="true"></iframe>
+                </div>
+                
+
+            
+            <div class="panel">
+                
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <p class="site-info text-left">
+                <a href="/imprint" class="footer-link">Imprint</a>
+                <a href="/contact" class="footer-link">Contact</a>
+
+
+    <a class="footer-link" href="/accounts/login/?next=/system/179397">
+        Log in</a>
+    <a  class="footer-link" href="/accounts/signup/?next=/system/179397" >
+        Sign up</a>
+
+<br/>
+                Copyright 1993-2018 TOP500.org (c)<span class="separator"></span>
+
+                
+            </p>
+        </div>
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-325590-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+<script type="text/javascript">stLight.options({
+    publisher: "6e84614a-3a9a-44ea-804c-ea3a907fc8d7",
+    doNotHash: false,
+    doNotCopy: false,
+    hashAddressBar: false
+});</script>
+</body>
+</html>
